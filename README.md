@@ -8,8 +8,6 @@
  </picture>
 </p>
 
-![images/logo.png](My logo)
-
 # About me
 I'm Muffoi. I'm a **hobby programmer** and quite experienced at ✍️ coding in **HTML**, **CSS** and **JavaScript**.
 I also have a bit of knowledge in **Batch** scripts.
