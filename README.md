@@ -10,6 +10,7 @@
 
 # About me
 I'm Muffoi. I'm a **hobby programmer** and quite experienced at ✍️ coding in **HTML**, **CSS** and **JavaScript**.
+I also have a bit of knowledge in Batch scripts.
 Currently, I'm learning :electron: **Electron**'s APIs and working on one kind of a big project.
 
 ## My coding knowledge
