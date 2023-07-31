@@ -7,7 +7,7 @@
 # About me
 I'm Muffoi. I'm a **hobby programmer** and like ✍️ coding in **JavaScript**, in combination with **Node.js**, sometimes **Electron.js**.
 I also have a bit of knowledge with **Batch** scripts.
-Currently, I'm learning :electron: **Electron.js**' APIs and working on one kind of a big project.
+Currently, I'm learning :electron: **Electron.js**' APIs and working on a few small projects.
 
 ## My coding knowledge
 
