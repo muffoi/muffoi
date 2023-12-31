@@ -1,13 +1,12 @@
-<h1 align="center">Hi, guys!</h1>
+<h1 align="center">Hi, guys! 👋</h1>
 
 <p align="center">
- <img alt="My logo" src="images/logo.png" width="70%">
+ <img alt="My logo" src="images/logo.png" width="60%">
 </p>
 
 # About me
-I'm Muffoi. I'm a **hobby programmer** and like ✍️ coding in **JavaScript**, in combination with **Node.js**, sometimes **Electron.js**.
-I also have a bit of knowledge with **Batch** scripts.
-Currently, I'm learning :electron: **Electron.js**' APIs and working on a few small projects.
+I'm a **hobbyist programmer** and I code ✍️ in **JavaScript** - in combination with **Node.js**.
+I have a bit of knowledge with **Batch** scripts.
 
 ## My coding knowledge
 
@@ -18,7 +17,6 @@ Currently, I'm learning :electron: **Electron.js**' APIs and working on a few sm
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/muffoi)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/muffoi)
-[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular&logoColor=red)](https://github.com/muffoi)
 [![Electron](https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron)](https://github.com/muffoi)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/muffoi)
 
