@@ -7,6 +7,7 @@
 # About me
 I'm a **hobbyist programmer** and I code ✍️ in **JavaScript** — in combination with **Node.js**.
 I have a bit of knowledge with **Batch** scripts.
+Currrently working on light simulation engine with [GPU.js](https://github.com/gpujs/gpu.js).
 
 ## My coding knowledge
 
