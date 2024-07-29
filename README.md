@@ -18,7 +18,7 @@ Currrently working on light simulation engine with [GPU.js](https://github.com/g
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/muffoi)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/muffoi)
-[![Electron](https://img.shields.io/badge/electron.js-black?style=for-the-badge&logo=electron)](https://github.com/muffoi)
+[![Electron](https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron)](https://github.com/muffoi)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/muffoi)
 
 <p align="center">
