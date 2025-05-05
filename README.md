@@ -1,18 +1,13 @@
 <h1 align="center">Hi, guys! 👋</h1>
 
 <p align="center">
- <img alt="My logo" src="images/logo.png" width="40%">
+ <img alt="My logo" src="images/logo.png" width="30%">
 </p>
 
-# About me
-I'm a **self-taught software dev** interested in **[Node.js](https://github.com/nodejs/node)** and **[Electron](https://github.com/electron/electron)** desktop app development.
-<!-- I have a bit of knowledge with **Batch** scripts.
-Currrently working on light simulation engine with [GPU.js](https://github.com/gpujs/gpu.js) and [Electron](https://github.com/electron/electron). -->
-
-## My coding knowledge
+## My coding story
 I started off **making websites** (pure HTML, CSS). I was getting better in JavaScript. Then, I found out about **[Node.js](https://github.com/nodejs/node)** and discovered that it's more fun than websites.
 
-Today, I develop desktop apps with **[Electron](https://github.com/electron/electron)**.
+Today, I develop npm packages and desktop apps with **[Electron](https://github.com/electron/electron)**.
 Personally, I can't imagine still being *stuck* with web development today.
 
 <!-- ### Languages
